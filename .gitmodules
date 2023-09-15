@@ -1,0 +1,9 @@
+[submodule "TestPython"]
+	path = TestPython
+	url = https://github.com/ppangkol/TestPython
+[submodule "TestReact"]
+	path = TestReact
+	url = https://github.com/ppangkol/TestReact
+[submodule "TestSpring"]
+	path = TestSpring
+	url = https://github.com/ppangkol/TestSpring
